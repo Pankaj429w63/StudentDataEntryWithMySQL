@@ -1,0 +1,34 @@
+git add Main.java
+git commit -m "Add Main.java with menu-driven structure"
+
+
+git add operations/AddStudent.java
+git commit -m "Add AddStudent.java with add functionality"
+
+git add operations/DisplayStudents.java
+git commit -m "Add DisplayStudents.java with display functionality"
+
+git add operations/SearchStudent.java
+git commit -m "Add SearchStudent.java with search functionality"
+
+git add operations/UpdateStudent.java
+git commit -m "Add UpdateStudent.java with update functionality"
+
+git add operations/DeleteStudent.java
+git commit -m "Add DeleteStudent.java with delete functionality"
+
+
+git add studentdb_init.sql
+git commit -m "Add SQL script for studentdb creation and sample data"
+
+
+git add .gitignore
+git commit -m "Add .gitignore to ignore class files"
+
+
+git add .gitignore
+git commit -m "Add .gitignore to ignore class files"
+
+
+git add README.md
+git commit -m "Add README with method descriptions"
